@@ -1,5 +1,5 @@
-let unit = "inches";
-let radius = prompt("Enter a radius in " + unit);
+// let unit = "inches";
+let radius = prompt("Enter a radius in " );
 let circleArea = Math.PI * radius * radius;
 
 let userRoundPreference = prompt("Would you like to round? (y/n)");
